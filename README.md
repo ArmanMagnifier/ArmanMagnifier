@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.ibb.co/yg7cH5m/github-banner.png" alt="Arman Ansari | MERN Developer" />
+  <img src="assets/banner.png" alt="Arman Ansari | MERN Developer" />
 </p>
 
 # 👋 Hi, I’m Arman Ansari  
